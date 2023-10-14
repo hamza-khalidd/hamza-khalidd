@@ -1,16 +1,13 @@
-### Hi there 👋
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzaakhalid/) 
 
-<!--
-**hamza-khalidd/hamza-khalidd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack:
+Python, SQL, Power BI
 
-Here are some ideas to get you started:
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hamza-khalidd&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hamza-khalidd&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-khalidd&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+[![](https://visitcount.itsvg.in/api?id=hamza-khalidd&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
